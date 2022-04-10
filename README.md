@@ -28,13 +28,13 @@
 
  <h2>📲 Let's Connect<h2>
  <a href="https://twitter.com/shaquillendunda">
-  <img align="left" alt="Shaquille Ndunda | Twitter" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
+  <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
  </a>
  <a href="https://www.linkedin.com/in/shaquille-ndunda-b13a95107/">
-  <img align="left" alt="Shaquille's LinkedIn" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
+  <img align="left" alt="Shaquille LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/shaqdeffonit/">
-  <img align="left" alt="Shaq's Instagram" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/instagram.png" />
+  <img align="left" alt="Shaq Instagram" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/instagram.png" />
    </a>
 </br>
  
