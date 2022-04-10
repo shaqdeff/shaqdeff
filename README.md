@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋🏽;I'm+Shaq!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Shaq!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 <h3 align="center">A software developer and audio engineer from Kenya.</h3>
 
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shaqdeff.visitor-badge&left_color=dimgray&right_color=blue">
+  <img src="https://badges.pufler.dev/visits/shaqdeff/shaqdeff?color=467eba"">
   <img src="https://badges.pufler.dev/repos/shaqdeff?color=467eba">
   <img src="https://badges.pufler.dev/commits/monthly/shaqdeff?color=467eba">
 </div>
