@@ -22,7 +22,7 @@
 
 - 🥷🏽   I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
 
-- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**
+- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
