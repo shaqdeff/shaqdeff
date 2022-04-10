@@ -26,7 +26,7 @@
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
- <h2>📲 Let's Connect<h2>
+ <h2>📲  Let's Connect<h2>
  <a href="https://twitter.com/shaquillendunda">
   <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
  </a>
@@ -38,7 +38,7 @@
    </a>
 </br>
  
- <h2>🛠Languages & Tools<h2>
+ <h2>🛠 Languages & Tools<h2>
  <p align="left">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -55,7 +55,7 @@
 </div>
    
 
-<h2>Playing On Spotify 🎵 <h2>  
+<h2>🎵 Playing On Spotify<h2>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)
   
