@@ -31,10 +31,10 @@
   <img align="left" alt="Shaquille Ndunda | Twitter" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
  </a>
  <a href="https://www.linkedin.com/in/shaquille-ndunda-b13a95107/">
-  <img align="left" alt="Shaquille's LinkedIn" height="22px" src="https://raw.githubusercontent.com/peterthehan/shaqdeff/shaqdeff/main/linkedin.png" />
+  <img align="left" alt="Shaquille's LinkedIn" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/shaqdeffonit/">
-  <img align="left" alt="Shaq's Instagram" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main add/instagram.png" />
+  <img align="left" alt="Shaq's Instagram" height="22px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/instagram.png" />
    </a>
 </br>
  
@@ -50,8 +50,8 @@
      
   </br>
    <div>      
-  <img height="230" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
-  <img height="230" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
+  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
+  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
 </div>
    
 
