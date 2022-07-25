@@ -6,23 +6,17 @@
 <p align="center">I'm a full stack software developer student, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 
-<div align="center">
-  <img src="https://badges.pufler.dev/visits/shaqdeff/shaqdeff?color=467eba"">
-  <img src="https://badges.pufler.dev/repos/shaqdeff?color=467eba">
-  <img src="https://badges.pufler.dev/commits/monthly/shaqdeff?color=467eba">
-</div>
-
 ---
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
 
-- 👥   I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
+- 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
+- 🥷🏽   I'm currently learning **MERN Stack**, **Redux**, **Ruby**, and **Ruby on Rails**.
 
-- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**.
+- 🗓   Ask me about **JavaScript**, and **React.js**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
