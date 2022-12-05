@@ -1,22 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Shaq!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
-<h3 align="center">A software developer and audio engineer from Kenya.</h3>
+<h3 align="center">A software engineer and audio engineer from Kenya.</h3>
 
-<p align="center">I'm a full stack software developer student, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 
 ---
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
+- 👨🏽‍💻   Currently, I'm working at Diversity Cyber Council as a **Full-Stack Software Engineer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently learning **MERN Stack**, **Redux**, **Ruby**, and **Ruby on Rails**.
+- 🥷🏽   I'm currently learning **MERN Stack**, and **Machine Learning**.
 
-- 🗓   Ask me about **JavaScript**, and **React.js**.
+- 🗓   Ask me about **JavaScript**, **React.js**, and **Ruby**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
@@ -41,9 +41,19 @@
  <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+
+          
+          
                                                                                                                                            
  </p>
      
