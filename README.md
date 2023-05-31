@@ -10,7 +10,7 @@
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   Currently, I'm working as a **Full-Stack Software Engineer** at [Diversity Cyber Council](https://diversitycybercouncil.com/).
+- 👨🏽‍💻   **Full-Stack Software Engineer** currently looking for new opportunities.
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
