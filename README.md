@@ -14,7 +14,7 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently learning **MERN Stack**, and **Machine Learning**.
+- 🥷🏽   I'm currently doing projects using the **MERN Stack**.
 
 - 🗓   Ask me about **JavaScript**, **React.js**, and **Ruby**.
 
