@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Shaq!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
-<h3 align="center">A software engineer and audio engineer from Kenya.</h3>
+<h3 align="center">A software engineer.</h3>
 
-<p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a full stack software engineer, and also an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 
 ---
