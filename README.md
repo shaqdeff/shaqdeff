@@ -3,20 +3,19 @@
 </h1>
 <h3 align="center">A software engineer.</h3>
 
-<p align="center">I'm a full stack software engineer, and also an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
-
+<p align="center">I'm a software engineer. I like coding, googling stuff, and watching good movies/shows.</p>
 
 ---
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   **Full-Stack Software Engineer** currently looking for new opportunities.
+- 👨🏽‍💻   **Software Engineer** currently building **Define Consult**.
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently doing projects using the **MERN Stack**.
+- 🥷🏽   I'm currently building an AI-Powered app using **Python**.
 
-- 🗓   Ask me about **JavaScript**, **React.js**, and **Ruby**.
+- 🗓   Ask me about **TypeScript**, **Next.js**, and **Python**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
@@ -48,10 +47,14 @@
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />     
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> 
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />   
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
- <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /> 
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
           
           
