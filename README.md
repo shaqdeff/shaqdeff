@@ -20,9 +20,9 @@
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
- <a href="https://twitter.com/shaquillendunda">
+<!--  <a href="https://twitter.com/shaquillendunda">
   <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
- </a>
+ </a> -->
  <a href="https://www.linkedin.com/in/shaquille-ndunda-b13a95107/">
   <img align="left" alt="Shaquille LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
