@@ -71,5 +71,5 @@
    
 <h2>🎵 Playing On Spotify<h2>  
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shaqdeff&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=shaqdeff&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shaqdeff&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=shaqdeff&redirect=true)
   
